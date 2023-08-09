@@ -11,13 +11,19 @@ Before creating the API, set up the Lambda backend by creating a Lambda function
 Topics
 
 Create a Lambda function for Lambda non-proxy integration
+
 Create an API with Lambda non-proxy integration
+
 Test invoking the API method
+
 Deploy the API
+
 Test the API in a deployment stage
+
 Clean up
+
 Create a Lambda function for Lambda non-proxy integration
-Note
+
 Creating Lambda functions may result in charges to your AWS account.
 
 In this step, you create a "Hello, World!"-like Lambda function for the Lambda custom integration. Throughout this walkthrough, the function is called GetStartedLambdaIntegration.
